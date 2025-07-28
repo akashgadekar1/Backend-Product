@@ -1,7 +1,14 @@
 require("dotenv").config()
 const express = require("express");
+import cors from "cors";
 
 const app = express();
+
+app.use(
+  cors({
+    origin: "https://testing-ashy-six.vercel.app/",
+  })
+);
 const connectDB = require("./db/connect");
 const PORT = process.env.PORT || 5000;
 
