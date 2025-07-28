@@ -1,0 +1,72 @@
+[
+  {
+    "name": "iPhone 14",
+    "price": 799,
+    "featured": true,
+    "company": "Apple",
+    "rating": 4.5
+  },
+  {
+    "name": "Samsung Galaxy S21",
+    "price": 699,
+    "featured": false,
+    "company": "Samsung",
+    "rating": 4.3
+  },
+  {
+    "name": "Samsung Galaxy",
+    "price": 699,
+    "featured": false,
+    "company": "Samsung",
+    "rating": 4.3
+  },
+  {
+    "name": "Redmi Note 12",
+    "price": 249,
+    "featured": true,
+    "company": "mi",
+    "rating": 4.1
+  },
+  {
+    "name": "Realme Narzo 60",
+    "price": 279,
+    "featured": false,
+    "company": "realme",
+    "rating": 4.2
+  },
+  {
+    "name": "iPhone 13",
+    "price": 699,
+    "featured": false,
+    "company": "Apple",
+    "rating": 4.4
+  },
+  {
+    "name": "Samsung M14",
+    "price": 199,
+    "featured": true,
+    "company": "Samsung",
+    "rating": 4.0
+  },
+  {
+    "name": "Realme 11x",
+    "price": 189,
+    "featured": false,
+    "company": "realme",
+    "rating": 3.9
+  },
+  {
+    "name": "Redmi K50i",
+    "price": 309,
+    "featured": true,
+    "company": "mi",
+    "rating": 4.3
+  },
+  {
+    "name": "iPhone SE",
+    "price": 429,
+    "featured": false,
+    "company": "Apple",
+    "rating": 4.0
+  }
+]

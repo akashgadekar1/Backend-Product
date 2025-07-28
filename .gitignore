@@ -1,0 +1,37 @@
+# Node modules (required packages)
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Environment variables (never commit sensitive data!)
+.env
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# VSCode Editor folder
+.vscode/
+
+# Build / dist folder (optional, if any)
+build/
+dist/
+
+# Testing coverage reports
+coverage/
+
+# MongoDB dump / export files
+*.gz
+*.zip
+*.tar
+
+# Optional: local database or debug data
+*.sqlite
+*.db
+*.pid
+
+# Optional: IDE-specific (if you use JetBrains/WebStorm etc.)
+.idea/
