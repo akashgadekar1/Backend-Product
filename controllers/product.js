@@ -3,7 +3,7 @@ const Product = require("../models/product");
 // सर्व Products घेणारी API
 const getAllProducts = async (req, res) => {
   // उदा: http://localhost:5000/api/products?company=Apple&xyd=ams
-  const { company, sort, select, page = 1, limit = 3 } = req.query;
+  const { company, sort, select, page = 1, limit = 10 } = req.query;
 
   // MongoDB साठी filter बनवतोय
   const queryObject = {};
